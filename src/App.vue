@@ -30,13 +30,15 @@ export default {
 html, body {
     width: 100%;
     height: 100%;
+    overflow: hidden;
 }
 
 #app {
     width: 100%;
     height: 100%;
-    padding: 40px 10px;
+    padding: 40px 10px 0;
     box-sizing: border-box;
+    overflow: hidden;
 
     .title {
         font-size: 2em;
@@ -46,6 +48,8 @@ html, body {
 
     .list-wrap {
         position: relative;
+        width: 100%;
+        height: 100%;
     }
 }
 </style>

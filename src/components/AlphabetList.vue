@@ -1,10 +1,17 @@
 <template>
     <div class="alphabet-list">
         <ul class="list-nav">
-            <li class="nav-item" v-for="(shortcut, index) in shortcuts" :key="index"><a :href="`#${shortcut}`">{{ shortcut }}</a></li>
+            <li class="nav-item" 
+                v-for="(shortcut, index) in shortcuts" 
+                :key="index"
+                @click="moveTo(`#move_${shortcut}`)">{{ shortcut }}</li>
         </ul>
-        <div class="list-container">
-            <AlphabetListItem v-for="(value, key, index) in groups" :key="index" :groupName="key" :items="value" />
+        <div class="list-container" ref="list">
+            <div class="list-wrapper">
+                <AlphabetListItem v-for="(value, key, index) in groups" 
+                    :ref="`#move_${key}`" :key="index" :groupName="key" 
+                    :items="value" />
+            </div>
         </div>
     </div>
 </template>
@@ -46,6 +53,20 @@ export default {
             }
 
             return list.reduce(reducer, {})
+        },
+        calcScrollTopPosition (rootElm, targetElm) {
+            const { scrollTop } = rootElm
+            const { top: rootTop, left: rootLeft, width: rootWidth, height: rootHeight } = rootElm.getBoundingClientRect()
+            const { top, left, width, height } = targetElm.getBoundingClientRect()
+
+            return (top + scrollTop) - rootTop
+        },
+        moveTo (target) {
+            const { list } = this.$refs
+            const [ refTarget ] = this.$refs[target]
+            const scrollTop = this.calcScrollTopPosition(list, refTarget.$el)
+
+            list.scrollTo(0, scrollTop)
         }
     },
     created () {
@@ -60,6 +81,12 @@ export default {
     position: relative;
     width: 100%;
     height: 100%;
+}
+
+.list-container {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
 }
 
 .list-nav {

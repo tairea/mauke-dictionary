@@ -1,6 +1,6 @@
 <template>
     <div class="alphabet-list-item">
-        <p class="list-divider" :id="groupName">{{ groupName }}</p>
+        <p class="list-divider">{{ groupName }}</p>
         <ul class="list-item">
             <li class="item" v-for="(item, index) in sortedItems" :key="index">{{ item.title }}</li>
         </ul>
