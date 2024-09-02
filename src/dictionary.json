@@ -1,0 +1,2231 @@
+{
+  "data": [
+    {
+      "english": "a",
+      "maori": "vowel"
+    },
+    {
+      "english": "affirmative; used to answer a negative query",
+      "maori": "ā"
+    },
+    {
+      "english": "a",
+      "maori": "`e; tetai"
+    },
+    {
+      "english": "an",
+      "maori": "tēta`i"
+    },
+    {
+      "english": "abacus",
+      "maori": "anga tatau, mea tatau, anga numero, anga tare"
+    },
+    {
+      "english": "abalone",
+      "maori": "paua NZ Maori"
+    },
+    {
+      "english": "abandon",
+      "maori": "akaruke, tiora, titiri, tiria, akataka, akata`a"
+    },
+    {
+      "english": "abandoned",
+      "maori": "akaruke`ia, tiora`ia"
+    },
+    {
+      "english": "abase",
+      "maori": "taakaaka"
+    },
+    {
+      "english": "abate",
+      "maori": "akamutu, akaiti, akameangiti, tamaru, taiti, akaripo, torue"
+    },
+    {
+      "english": "abattoir",
+      "maori": "are ta manu"
+    },
+    {
+      "english": "abbey",
+      "maori": "are orometua"
+    },
+    {
+      "english": "abbreviate",
+      "maori": "akapoto, tapoto"
+    },
+    {
+      "english": "abdicate",
+      "maori": "tuku te au, akaruke, akamoe`au"
+    },
+    {
+      "english": "abdomen",
+      "maori": "kona, kopu"
+    },
+    {
+      "english": "abduct",
+      "maori": "rave ke, keia, mouria, apaina ke, akaoro"
+    },
+    {
+      "english": "abeam",
+      "maori": "ta`ata i te vaka, tipoto"
+    },
+    {
+      "english": "aberration",
+      "maori": "e, takake, akatakake, taravake, aere ke, tuke"
+    },
+    {
+      "english": "abet",
+      "maori": "turu, tauturu"
+    },
+    {
+      "english": "abeyance",
+      "maori": "tāpū, akamutu, akano`o`ia"
+    },
+    {
+      "english": "abhor",
+      "maori": "rekakore, marekakore, ukiuki, vetaveta, kavakava, akavi`ivi`I, toanu"
+    },
+    {
+      "english": "abhorrent",
+      "maori": "akavi`ivi`i"
+    },
+    {
+      "english": "abide",
+      "maori": "mou, aru, noo, akono, aru"
+    },
+    {
+      "english": "ability",
+      "maori": "karape, kite, kamaatu, tu taunga"
+    },
+    {
+      "english": "abject",
+      "maori": "viivii, kino tikai, tu viivii tikai, akaviivii"
+    },
+    {
+      "english": "abjure",
+      "maori": "kopae ke, akataka ke, taiti ke"
+    },
+    {
+      "english": "ablaze",
+      "maori": "Mura, ka, kakā, mura ke"
+    },
+    {
+      "english": "able",
+      "maori": "tukatau, maranga, rauka, papu"
+    },
+    {
+      "english": "ablution",
+      "maori": "tama, `akati`amā, `orei`anga, orei"
+    },
+    {
+      "english": "abnegate",
+      "maori": "kopae ke, akakore, takore"
+    },
+    {
+      "english": "abnormal",
+      "maori": "tuke, meake"
+    },
+    {
+      "english": "aboard",
+      "maori": "i runga nei (te vaka), ki runga"
+    },
+    {
+      "english": "abode",
+      "maori": "kainga, ngutuare, are"
+    },
+    {
+      "english": "abolish",
+      "maori": "akakore, takore, ta ma"
+    },
+    {
+      "english": "abominable",
+      "maori": "viivii, kino, taukore, vinivini"
+    },
+    {
+      "english": "aboriginal",
+      "maori": "tangata enua, toketoke enua, kerekere enua"
+    },
+    {
+      "english": "aborigine",
+      "maori": "tangata enua"
+    },
+    {
+      "english": "abort",
+      "maori": "tapu, kokoti, akamutu, ta mate, aka mate, akakore, ta kore"
+    },
+    {
+      "english": "abortion",
+      "maori": "akamutu, ta koreanga, ta mateanga"
+    },
+    {
+      "english": "abound",
+      "maori": "manganui, rai, mea rai, nui, mahina, aka"
+    },
+    {
+      "english": "about",
+      "maori": "no"
+    },
+    {
+      "english": "above",
+      "maori": "i runga, runga"
+    },
+    {
+      "english": "abrade",
+      "maori": "pakia, maore, varu, tapakia, tapakiko"
+    },
+    {
+      "english": "abrasion",
+      "maori": "pakia, maore, pakiko, kavaru"
+    },
+    {
+      "english": "abrasive",
+      "maori": "taratara, putaputa, katukatu"
+    },
+    {
+      "english": "abreast",
+      "maori": "kapiti, tapiri, tu kapipiti, pipiri, turua"
+    },
+    {
+      "english": "abbreviate",
+      "maori": "akapoto, tapoto"
+    },
+    {
+      "english": "abbreviation",
+      "maori": "akapotoanga, tapotoanga"
+    },
+    {
+      "english": "abridge",
+      "maori": "akapoto, tapoto, taiti, akaiti"
+    },
+    {
+      "english": "abroad",
+      "maori": "tai mai, i akau roa, takaroa, mamao ke, tiroa"
+    },
+    {
+      "english": "abrogate",
+      "maori": "akakore, takore, akamutu, akanoa"
+    },
+    {
+      "english": "abrupt",
+      "maori": "itirere, itimangamanga"
+    },
+    {
+      "english": "abruptly",
+      "maori": "poitirere, itimangamanga"
+    },
+    {
+      "english": "abscess",
+      "maori": "pirau, piro, ota"
+    },
+    {
+      "english": "abscond",
+      "maori": "matara, oro ke, oro atu, takake, rere ke, matara ke"
+    },
+    {
+      "english": "abseil",
+      "maori": "eke taura, tuku taura, patere ki raro, akaeke taura"
+    },
+    {
+      "english": "absent",
+      "maori": "ngaro, ngaro ke, akatau apii, vare ke, takake"
+    },
+    {
+      "english": "absentee",
+      "maori": "tamangaro / tamainengaro"
+    },
+    {
+      "english": "absolute",
+      "maori": "mea papu, papu rava, papu tikai, tika tikai, tau meitaki, nuingāngare, tano ei, tika rava"
+    },
+    {
+      "english": "absorb",
+      "maori": "ngote, ngotea, varenga, mou mai, uti, uuti"
+    },
+    {
+      "english": "absorbed",
+      "maori": "varenga"
+    },
+    {
+      "english": "abstain",
+      "maori": "topa mai, takai ki vao, kape, kiriti, akava"
+    },
+    {
+      "english": "abstinence",
+      "maori": "kiriti, kape ke, takake, akapa"
+    },
+    {
+      "english": "abstract",
+      "maori": "manako ua, tamanako, akatutu"
+    },
+    {
+      "english": "abstruse",
+      "maori": "ngata, marama kore, poiri, kitena kore"
+    },
+    {
+      "english": "absurd",
+      "maori": "tarava ke, au kore, auouo, kaakaa, ukiuki"
+    },
+    {
+      "english": "abundant",
+      "maori": "maviriviri, nui, maata, mea rai, mahina, ua rai, tinitini, rava, tinitini, manomano"
+    },
+    {
+      "english": "abuse",
+      "maori": "takino, takinokino, aka kino, ara, arapaki"
+    },
+    {
+      "english": "abut",
+      "maori": "tapiri, pirimou, monoanga, kapipiti"
+    },
+    {
+      "english": "accelerate",
+      "maori": "akatere, akaviviki, oma"
+    },
+    {
+      "english": "accelerated learning",
+      "maori": "tamou apii akatere"
+    },
+    {
+      "english": "accept",
+      "maori": "ariki, rave mai, mou mai, kapo"
+    },
+    {
+      "english": "acceptable",
+      "maori": "tau, tau meika, au"
+    },
+    {
+      "english": "accident",
+      "maori": "u, mea akakorokore, akakorokore"
+    },
+    {
+      "english": "acclaim",
+      "maori": "maruarua, apaipai, akameitaki, akararangi"
+    },
+    {
+      "english": "accommodate",
+      "maori": "akao, ariki, akono"
+    },
+    {
+      "english": "accompany",
+      "maori": "aru, piri atu"
+    },
+    {
+      "english": "accordion",
+      "maori": "koriani"
+    },
+    {
+      "english": "according",
+      "maori": "I, na, I nana ai"
+    },
+    {
+      "english": "account",
+      "maori": "pira, ripoti, taki tuatua"
+    },
+    {
+      "english": "accurate",
+      "maori": "tano, tano tikai, tano mou, tika"
+    },
+    {
+      "english": "accuse",
+      "maori": "akapari, akaapa, tapepe, taumaa, tapepe"
+    },
+    {
+      "english": "accustom",
+      "maori": "akamatau, matau, rarata"
+    },
+    {
+      "english": "ace",
+      "maori": "`ai, tiamupieni, aito"
+    },
+    {
+      "english": "ache",
+      "maori": "mamae, mauiui, akia"
+    },
+    {
+      "english": "achieve",
+      "maori": "rauka, autu, re"
+    },
+    {
+      "english": "acid",
+      "maori": "kavangū"
+    },
+    {
+      "english": "acquaint",
+      "maori": "matau, rarata, `aka`oa"
+    },
+    {
+      "english": "acquire",
+      "maori": "riro, rauka"
+    },
+    {
+      "english": "across",
+      "maori": "tikoti"
+    },
+    {
+      "english": "act",
+      "maori": "akatututu, raveanga"
+    },
+    {
+      "english": "activity",
+      "maori": "keukeunga"
+    },
+    {
+      "english": "actual",
+      "maori": "rai, tikai"
+    },
+    {
+      "english": "adapt",
+      "maori": "akao, aru"
+    },
+    {
+      "english": "add",
+      "maori": "tare, akarava, akatuma"
+    },
+    {
+      "english": "additional",
+      "maori": "onga, tuma, ke atu"
+    },
+    {
+      "english": "adequate",
+      "maori": "rava, tau, au, tano"
+    },
+    {
+      "english": "adhere",
+      "maori": "piri, piki"
+    },
+    {
+      "english": "adjudicate",
+      "maori": "akava"
+    },
+    {
+      "english": "adjust",
+      "maori": "akatano, akao, taui"
+    },
+    {
+      "english": "admiral",
+      "maori": "atimara, rangatira, taunga"
+    },
+    {
+      "english": "admonish",
+      "maori": "ako, akona, akamatakite"
+    },
+    {
+      "english": "adopt",
+      "maori": "angai, rave mai, aru"
+    },
+    {
+      "english": "adultery",
+      "maori": "akaturi"
+    },
+    {
+      "english": "advantage",
+      "maori": "marikonga, pu`apinga, meitaki ke, turanga meitaki, meitaki takake, karape takake"
+    },
+    {
+      "english": "adverb",
+      "maori": "piriverepa"
+    },
+    {
+      "english": "advice",
+      "maori": "ako, ako marie, apii, akamatakite, akamarama, turama"
+    },
+    {
+      "english": "adze",
+      "maori": "toki, oma, pari, tupa, tarai"
+    },
+    {
+      "english": "aerial roots",
+      "maori": "aka rangi, kai ara"
+    },
+    {
+      "english": "aeroplane",
+      "maori": "vakarangi, pairere"
+    },
+    {
+      "english": "affable",
+      "maori": "matamaru"
+    },
+    {
+      "english": "affect",
+      "maori": "arapaki, amiri, piri, tae, tamamae"
+    },
+    {
+      "english": "affectionate",
+      "maori": "aroa, ngakauaroa, inangaro"
+    },
+    {
+      "english": "affirmative",
+      "maori": "ā"
+    },
+    {
+      "english": "afflict",
+      "maori": "pa, akatumatretenga, papaia, rokoia"
+    },
+    {
+      "english": "afloat",
+      "maori": "akaarnga, akapanu, papanu"
+    },
+    {
+      "english": "afraid",
+      "maori": "mataku, ataata"
+    },
+    {
+      "english": "after",
+      "maori": "muri ake"
+    },
+    {
+      "english": "afterbirth",
+      "maori": "enua"
+    },
+
+    {
+      "english": "afternoon",
+      "maori": "aiai, avatea"
+    },
+    {
+      "english": "again (repeat)",
+      "maori": "akaou (re new), oki mai"
+    },
+    {
+      "english": "against",
+      "maori": "ki"
+    },
+    {
+      "english": "agate",
+      "maori": "katekate, tepu"
+    },
+    {
+      "english": "age",
+      "maori": "tuatau, mataiti, uki"
+    },
+    {
+      "english": "agenda",
+      "maori": "tumu manako"
+    },
+    {
+      "english": "agent",
+      "maori": "rima rave, orooro, putokotoko, kauono, mono"
+    },
+    {
+      "english": "aim / purpose / intention",
+      "maori": "koronga (akakoro`anga)"
+    },
+    {
+      "english": "alien",
+      "maori": "tuitarere, tangata ke, manene"
+    },
+    {
+      "english": "almond / polynesian almond",
+      "maori": "kauariki – Polynesian Almond (Terminalia glabrata)"
+    },
+    {
+      "english": "appropriate",
+      "maori": "au, tau, tano, tikanga"
+    },
+    {
+      "english": "argue",
+      "maori": "tau etono, taumaro, patoa"
+    },
+    {
+      "english": "arrogant",
+      "maori": "akanengonengo"
+    },
+    {
+      "english": "adornment",
+      "maori": "(1) Rakei (2) Ki`iki`i, the adornment of an idol"
+    },
+    {
+      "english": "albacore",
+      "maori": "(1) `A`ai, a species of large fish, Yellow fin tuna - Thunnus albacares"
+    },
+    {
+      "english": "animal",
+      "maori": "(1) puaka, the general term for quadrupeds, four legged animals"
+    },
+    {
+      "english": "activity",
+      "maori": "(1) Keukeunga (2) raveraveanga"
+    },
+    {
+      "english": "aim",
+      "maori": "akakoroanga"
+    },
+    {
+      "english": "albatross",
+      "maori": "toroa"
+    },
+    {
+      "english": "alphabet",
+      "maori": "ara reta"
+    },
+    {
+      "english": "also",
+      "maori": "katoa"
+    },
+    {
+      "english": "altar",
+      "maori": "(1) Ranganuku;  Ref Savage 1962:291 (2) `ata (3) atarau"
+    },
+    {
+      "english": "although",
+      "maori": "no atu"
+    },
+    {
+      "english": "ancestors",
+      "maori": "ai/ui tupuna"
+    },
+    {
+      "english": "ankle",
+      "maori": "paunga vaevae"
+    },
+    {
+      "english": "appendix",
+      "maori": "Te au tātā`anga `akarava  / kupu akarava"
+    },
+    {
+      "english": "archaeology",
+      "maori": "`eru one / kura taito"
+    },
+    {
+      "english": "archaeologist",
+      "maori": "ta`unga `eru one (M Tongia – Ki`anga korero 4 July 2012)"
+    },
+    {
+      "english": "arrest (also see confined & imprisonment)",
+      "maori": "papuru; to detain forcefully; held securely, confined (pp 234)"
+    },
+    {
+      "english": "artful",
+      "maori": "pikipiki"
+    },
+    {
+      "english": "as",
+      "maori": "ā (also used to mean like, similar to, after the manner of)"
+    },
+    {
+      "english": "assassin",
+      "maori": "pamorauti"
+    },
+    {
+      "english": "assignment",
+      "maori": "rangakura; see also ‘research’"
+    },
+    {
+      "english": "astra / astro",
+      "maori": "mauri rere rangi"
+    },
+    {
+      "english": "astra / astro travel",
+      "maori": "mauri-rere-rangi; where the spirit leaves the body during sleep, meditation etc and travels beyond the natural world"
+    },
+    {
+      "english": "atom",
+      "maori": "Poepoe, a minute particle"
+    },
+    {
+      "english": "autograph",
+      "maori": "itiki ingoa"
+    },
+    {
+      "english": "autumn",
+      "maori": "(1) `Akaa`u-atua; one of the seasons of the year"
+    },
+
+    {
+      "english": "bacteria",
+      "maori": [
+        "Naonao (any small insect eg midge, sandfly etc)",
+        "Manu poepoe (exceedingly small living creature living on earth or through the air)",
+        "Manumanu",
+        "Manuiti",
+        "Manurikiriki",
+        "Manumanu rauta`i / tuata`i",
+        "Manumanu – microscopic living organisms",
+        "Rauta`i – single celled",
+        "Single stem or single celled – rauta`i m",
+        "Virus - manumanu akakai",
+        "A virus is a small infectious agent",
+        "Manumanu – virus",
+        "Akakai – infectious agent"
+      ]
+    },
+    {
+      "english": "banana (mountain banana / Musa troglodytarum)",
+      "maori": "vē`ī `uatū or `ūtū; king of the banana world for it bows to no other fruits"
+    },
+    {
+      "english": "barracouta",
+      "maori": "‘Ā‘ā Mangā (a species of barracuda, Black Snoek, Blacksail Snake Mackerel - Thyrsitoides marleyi)"
+    },
+    {
+      "english": "bark cloth",
+      "maori": [
+        "(1) Pūnounou",
+        "(2) tapa",
+        "(3) anga",
+        "(4) tikoru, a white native cloth",
+        "(5) pokuru, bark cloth obtained from the breadfruit tree"
+      ]
+    },
+    {
+      "english": "barley",
+      "maori": "Kerite, a word introduced from the Hebrew language"
+    },
+    {
+      "english": "barren",
+      "maori": "(1) Kirakira, atea"
+    },
+    {
+      "english": "basalt",
+      "maori": "toka maori"
+    },
+    {
+      "english": "bastard",
+      "maori": "(1) Puti"
+    },
+    {
+      "english": "beater (tapa)",
+      "maori": "ike; also ‘rue’ in Atiu"
+    },
+    {
+      "english": "beauty salon",
+      "maori": "are pana / are pori / are akapurotu; a house where beautification is carried out"
+    },
+    {
+      "english": "beetle",
+      "maori": "popoti"
+    },
+    {
+      "english": "belong",
+      "maori": "ā"
+    },
+    {
+      "english": "bless",
+      "maori": "akatapu (see also consecrate, sanctify, hallow)"
+    },
+    {
+      "english": "bone",
+      "maori": "ivi"
+    },
+    {
+      "english": "bone marrow",
+      "maori": "Ūō ivi"
+    },
+    {
+      "english": "bind",
+      "maori": ["aau", "nati", "tapeka", "takai"]
+    },
+    {
+      "english": "blue (colour)",
+      "maori": ["(1) Kirikiri-a-rangi", "(2) au ika", "(3) kivakiva"]
+    },
+    {
+      "english": "branch",
+      "maori": "Rārā, an offshoot that which protrudes from the main stem; rārā tua – lit. back branch ie dorsal fin of fish; hence rārā tua mango – shark fin"
+    },
+    {
+      "english": "breadfruit",
+      "maori": "kuru"
+    },
+    {
+      "english": "breadfruit fermented",
+      "maori": "Ma`i, food preparation made from fully ripe breadfruit"
+    },
+    {
+      "english": "breadth / broad",
+      "maori": "aano (see also broad & extent)"
+    },
+    {
+      "english": "break",
+      "maori": "aati"
+    },
+    {
+      "english": "breaking (waves)",
+      "maori": "aatu"
+    },
+    {
+      "english": "broad",
+      "maori": "aano (see also breadth & extent)"
+    },
+    {
+      "english": "buttress",
+      "maori": "(1) Rapa"
+    },
+    {
+      "english": "canoe",
+      "maori": ["(1) Kauaka, a small native canoe", "(2) paiere"]
+    },
+    {
+      "english": "canoe double hull (ocean voyaging)",
+      "maori": "unu rua, vaka purua"
+    },
+    {
+      "english": "calabash",
+      "maori": "(1) Kikiona, a kind of calabash or gourd"
+    },
+    {
+      "english": "carry",
+      "maori": "Akauta, amo, apai"
+    },
+    {
+      "english": "carve",
+      "maori": "akatiki, tarai, akairo, pana, aka-rēi"
+    },
+    {
+      "english": "cattle",
+      "maori": "puaka toro"
+    },
+    {
+      "english": "caulk (a leak)",
+      "maori": "tōtamu"
+    },
+    {
+      "english": "chest",
+      "maori": "umauma"
+    },
+    {
+      "english": "chest tattoo motif",
+      "maori": "Tāmokoroa – chest tattoo motifs"
+    },
+    {
+      "english": "change",
+      "maori": "Akaumu"
+    },
+    {
+      "english": "chase (away)",
+      "maori": "a or ia"
+    },
+    {
+      "english": "chasm / abyss",
+      "maori": ["(1) rua orovaro", "(2) rua"]
+    },
+    {
+      "english": "chatter",
+      "maori": "Kioro"
+    },
+    {
+      "english": "chief, see also paramount chief",
+      "maori": "ariki"
+    },
+    {
+      "english": "chirp",
+      "maori": "Kio, to chirp or croak"
+    },
+    {
+      "english": "circumcise",
+      "maori": "piritomi, it is said that this operation began with Rongo & it was Tu who does this act"
+    },
+    {
+      "english": "clear",
+      "maori": "make/makemake (see also cloudless)"
+    },
+    {
+      "english": "cliff",
+      "maori": "pari, re`e"
+    },
+    {
+      "english": "cloak",
+      "maori": "Tui-a-ta`a-kura or te Mata Atua; the magical cloak that prevented Motoro from being burned on Mt Aorai in Tahiti"
+    },
+    {
+      "english": "cloud",
+      "maori": "tiao rangi"
+    },
+    {
+      "english": "cloudless",
+      "maori": "makemake (see also clear)"
+    },
+    {
+      "english": "comprehend / understand",
+      "maori": "Kiro – nakirokiro"
+    },
+    {
+      "english": "comet",
+      "maori": "`etu ave/rere; Ta`akura is goddess or patron of comets, asteroids, meteors etc."
+    },
+    {
+      "english": "computer",
+      "maori": "rorouira; komipiuta"
+    },
+    {
+      "english": "computer app [computer application], a program that specifically helps a user",
+      "maori": "`atārangi"
+    },
+    {
+      "english": "corner",
+      "maori": "pirikopa"
+    },
+    {
+      "english": "confess",
+      "maori": "aaki (see also reveal and disclose)"
+    },
+    {
+      "english": "conger eel",
+      "maori": "aa tea/tea"
+    },
+    {
+      "english": "consecrate",
+      "maori": "akatapu (see also bless, sanctify, hallow)"
+    },
+    {
+      "english": "conservation",
+      "maori": "taporoporo in Rarotongan; `Io`io – in Mauke"
+    },
+    {
+      "english": "converse",
+      "maori": "karanga"
+    },
+    {
+      "english": "conversation",
+      "maori": "korero, vananga, karangaranga, pukaanga"
+    },
+    {
+      "english": "convey / convey (carry out)",
+      "maori": "Akauta – apai, kave, tari"
+    },
+    {
+      "english": "cicada",
+      "maori": "Ki`i, an insect remarkable for its chirping sound"
+    },
+    {
+      "english": "circle",
+      "maori": "(1) Punga"
+    },
+    {
+      "english": "circumcise",
+      "maori": "peritomi; oral traditions (Mangaia) state that circumcision began with Rongo and it was Tu who perform this"
+    },
+    {
+      "english": "clear",
+      "maori": "(1) Make (i.e. cloudless sky) (2) Makemake – absolutely clear or cloudless (3) Ma"
+    },
+    {
+      "english": "clitoris",
+      "maori": "tĪkana"
+    },
+    {
+      "english": "cold",
+      "maori": "anu, aanu"
+    },
+    {
+      "english": "collective",
+      "maori": "`ai, kau"
+    },
+    {
+      "english": "court (to court a woman)",
+      "maori": "(1) Ani (2) Aani"
+    },
+    {
+      "english": "communicate / communication",
+      "maori": "kave manako, tuku manako, `o`ora manako, akauta Manako, karangaranga"
+    },
+    {
+      "english": "community",
+      "maori": "iti tangata, putuputu`anga tangata, ropu tangata"
+    },
+    {
+      "english": "computer",
+      "maori": "rorouira (electric brain)"
+    },
+    {
+      "english": "computerized",
+      "maori": "ta/aka rorouira"
+    },
+    {
+      "english": "conclude",
+      "maori": "patoa"
+    },
+    {
+      "english": "confine(ed)",
+      "maori": "papuru; to detain forcefully; held securely, confined"
+    },
+    {
+      "english": "context",
+      "maori": "turanga"
+    },
+    {
+      "english": "contextualize",
+      "maori": "akaturanga"
+    },
+    {
+      "english": "copulate",
+      "maori": "ai, ainga"
+    },
+    {
+      "english": "court",
+      "maori": "aani / ani (to court or woo a woman)"
+    },
+    {
+      "english": "cover",
+      "maori": "(1) Pokia – to cover (2) Tapoki / Tapokia"
+    },
+    {
+      "english": "coward",
+      "maori": "tuauri / uritua"
+    },
+    {
+      "english": "create",
+      "maori": "(1) `Anga, to create; to do something creative"
+    },
+    {
+      "english": "cross beam",
+      "maori": "(1) Kiato; (the fore or forward cross beam [kiato mua] in olden days is called te kiato o Maui & the aft cross beam is called te kiato ia Rongo)"
+    },
+    {
+      "english": "dance",
+      "maori": "Ingo, the genuine old time native dance"
+    },
+    {
+      "english": "dawn",
+      "maori": "(1) Akirata"
+    },
+    {
+      "english": "day",
+      "maori": "ao, marama"
+    },
+    {
+      "english": "daylight saving",
+      "maori": "taporoporo ao"
+    },
+    {
+      "english": "debate",
+      "maori": "‘akataka pātoa, uma korero, ueue korero, tauetono korero, taukumikumi, vaa reka"
+    },
+    {
+      "english": "deck (on a double sea-going canoe)",
+      "maori": "Oropapa"
+    },
+    {
+      "english": "decorate / beautify / embellish",
+      "maori": "aka-rēi"
+    },
+    {
+      "english": "dedicate",
+      "maori": "ai (especially the opening of a building)"
+    },
+    {
+      "english": "defy / defiance",
+      "maori": "patoa"
+    },
+    {
+      "english": "design",
+      "maori": "akairo"
+    },
+    {
+      "english": "develop",
+      "maori": "akatupu, akapuapinga, akarare"
+    },
+    {
+      "english": "dexterous",
+      "maori": "pikipiki"
+    },
+    {
+      "english": "diaper",
+      "maori": "pikipiki (see also napkin)"
+    },
+    {
+      "english": "digital",
+      "maori": "ara matimati"
+    },
+    {
+      "english": "digital learning",
+      "maori": "raranga matimati; ara matimati"
+    },
+    {
+      "english": "directions (wind)",
+      "maori": "see dia at end of doc"
+    },
+    {
+      "english": "disappear / vanish / annihilate / to put out of existence",
+      "maori": "numi, numia, numinumi"
+    },
+    {
+      "english": "disclose",
+      "maori": "aaki, kaura, uaki, eeu"
+    },
+    {
+      "english": "discussion",
+      "maori": "see debate"
+    },
+    {
+      "english": "dog",
+      "maori": "puaka āoa"
+    },
+    {
+      "english": "dolphin",
+      "maori": "taairangi"
+    },
+    {
+      "english": "drive (away)",
+      "maori": "a or ia (see also to chase(chicken) away)"
+    },
+    {
+      "english": "drum; drumming",
+      "maori": "refer to Arerangi Tongia fB links about ‘drumming competition’ between Rarotonga and Raiatea"
+    },
+    {
+      "english": "face",
+      "maori": "momo"
+    },
+    {
+      "english": "falcon",
+      "maori": "aie"
+    },
+    {
+      "english": "farewell",
+      "maori": "ve‘eve‘e aroa, poroporoaki"
+    },
+    {
+      "english": "fasten",
+      "maori": "aau, nati, tapeka, takai"
+    },
+    {
+      "english": "fern (tree)",
+      "maori": "ponga, panga tua-taratara"
+    },
+    {
+      "english": "fern",
+      "maori": "tuanu‘e"
+    },
+    {
+      "english": "fin",
+      "maori": "rārā, rārātua"
+    },
+    {
+      "english": "fig",
+      "maori": "mati"
+    },
+    {
+      "english": "fire",
+      "maori": "a‘i"
+    },
+    {
+      "english": "fissure (as in a rock or cliff)",
+      "maori": "ākapi"
+    },
+    {
+      "english": "fish",
+      "maori": "ika"
+    },
+    {
+      "english": "longfin banner fish",
+      "maori": "taputapu"
+    },
+    {
+      "english": "flourish",
+      "maori": "pararau‘are"
+    },
+    {
+      "english": "flute",
+      "maori": "vivo ko‘e"
+    },
+    {
+      "english": "foetus",
+      "maori": "manumanuā"
+    },
+    {
+      "english": "fold",
+      "maori": "aatu"
+    },
+    {
+      "english": "forward",
+      "maori": "aro, aaro, mua"
+    },
+    {
+      "english": "four",
+      "maori": "ā"
+    },
+    {
+      "english": "fragrant vine",
+      "maori": "maire"
+    },
+    {
+      "english": "front",
+      "maori": "aro, aaro, mua"
+    },
+    {
+      "english": "frouty",
+      "maori": "poroti"
+    },
+    {
+      "english": "fullmoon (nights)",
+      "maori": "Inamotea / Inapotea"
+    },
+    {
+      "english": "furniture",
+      "maori": "atamira ngutuare, papa ngutuare"
+    },
+    {
+      "english": "gale",
+      "maori": "uriia, `a`a"
+    },
+    {
+      "english": "garment / mantle",
+      "maori": "tui-a-taakura"
+    },
+    {
+      "english": "general",
+      "maori": "rava rai, ra`inga, nui`anga, katoatoaanga"
+    },
+    {
+      "english": "giddy / giddiness",
+      "maori": "akeu moana, manunu tai"
+    },
+    {
+      "english": "god / deity",
+      "maori": "atua, aitu"
+    },
+    {
+      "english": "gill",
+      "maori": "pepe-a`a, pipi-a`a"
+    },
+    {
+      "english": "glide (as in glide as a bird)",
+      "maori": "aka ruirui"
+    },
+    {
+      "english": "gnats",
+      "maori": "potipoti"
+    },
+    {
+      "english": "global/globalisation",
+      "maori": "puroro kite ao, koropini ake te ao, pini uake te ao, puta kite ao"
+    },
+    {
+      "english": "glossary",
+      "maori": "te au tātā`anga `akamārama"
+    },
+    {
+      "english": "glove",
+      "maori": "aao rima"
+    },
+    {
+      "english": "glow-worm",
+      "maori": "pura po"
+    },
+    {
+      "english": "grace (bless the food)",
+      "maori": "taro"
+    },
+    {
+      "english": "grandchild / grandrainbow",
+      "maori": "mokopuna, mokoanuanua"
+    },
+    {
+      "english": "grasshopper",
+      "maori": "tapaki"
+    },
+    {
+      "english": "grey (as in color)",
+      "maori": "iri, reureu"
+    },
+    {
+      "english": "gourd",
+      "maori": "kikiona, `ue"
+    },
+    {
+      "english": "grope",
+      "maori": "`ā`ā"
+    },
+    {
+      "english": "haircutting",
+      "maori": "pō roro"
+    },
+    {
+      "english": "harbour",
+      "maori": "ava, uāpu"
+    },
+    {
+      "english": "halo",
+      "maori": "pukoro, tukoro"
+    },
+    {
+      "english": "harbour assistant",
+      "maori": "tūava"
+    },
+    {
+      "english": "Hawaiki",
+      "maori": "Avaiki-tautau"
+    },
+    {
+      "english": "heartburn",
+      "maori": "kea manava"
+    },
+    {
+      "english": "helmet (ancient sinnet helmet)",
+      "maori": "Tākā-pueka"
+    },
+    {
+      "english": "hernia / scrotal or scrotum hernia",
+      "maori": "ra‘o ngakau, ra‘o toka"
+    },
+    {
+      "english": "hoarse",
+      "maori": "‘ā"
+    },
+    {
+      "english": "honours board / plaque",
+      "maori": "paparangi"
+    },
+    {
+      "english": "hiccup",
+      "maori": "toka mauri"
+    },
+    {
+      "english": "hippopotamus",
+      "maori": "puaka-oro-vai, orovai"
+    },
+    {
+      "english": "history",
+      "maori": "itiki korero, tapapa tuatau"
+    },
+    {
+      "english": "horizon",
+      "maori": "ionga, piri-a-rangi"
+    },
+    {
+      "english": "horse",
+      "maori": "puaka-oro-enua, oroenua"
+    },
+    {
+      "english": "host",
+      "maori": "kutororoi, ranuku"
+    },
+    {
+      "english": "humble / humility",
+      "maori": "mōraro"
+    },
+    {
+      "english": "huh",
+      "maori": "ā"
+    },
+    {
+      "english": "husky",
+      "maori": "‘ā"
+    },
+    {
+      "english": "illusion",
+      "maori": "tūave, tu po‘epo‘e, orama"
+    },
+    {
+      "english": "indigestion",
+      "maori": "kea manava, ate kā"
+    },
+    {
+      "english": "indigene",
+      "maori": "uenua"
+    },
+    {
+      "english": "indigenous",
+      "maori": "Maori, tangata"
+    },
+    {
+      "english": "infertile",
+      "maori": "kena"
+    },
+    {
+      "english": "inform",
+      "maori": "akakite"
+    },
+    {
+      "english": "information",
+      "maori": "kite"
+    },
+    {
+      "english": "impotent",
+      "maori": "toto iti"
+    },
+    {
+      "english": "imprison",
+      "maori": "papuru"
+    },
+    {
+      "english": "intention / purpose",
+      "maori": "koronga, akakoro`anga"
+    },
+    {
+      "english": "introduction",
+      "maori": "akatomoanga"
+    },
+    {
+      "english": "Ireland",
+      "maori": "Iperenia"
+    },
+    {
+      "english": "isthmus",
+      "maori": "Ākave"
+    },
+    {
+      "english": "join (to join as two layers of plaited coconut leaves)",
+      "maori": "`ono"
+    },
+    {
+      "english": "jail",
+      "maori": "papuru"
+    },
+    {
+      "english": "kidney",
+      "maori": "Katu i`i, Māpē"
+    },
+    {
+      "english": "kindling (as in to kindle a fire)",
+      "maori": "mamataki a`i"
+    },
+    {
+      "english": "lacerate",
+      "maori": "nga`ae, `aea, `ae`ae"
+    },
+    {
+      "english": "landmark",
+      "maori": "tapuae, tapuae enua, akaioro enua"
+    },
+    {
+      "english": "language resource",
+      "maori": "toko-reo, turu reo"
+    },
+    {
+      "english": "lament",
+      "maori": "`eva, kave `eva, `āpare, `āpare eva"
+    },
+    {
+      "english": "lash (as to lash with cord or rope)",
+      "maori": "aau, nati, tapeka"
+    },
+    {
+      "english": "leader",
+      "maori": "amorangi"
+    },
+    {
+      "english": "learning",
+      "maori": "kamaatu"
+    },
+    {
+      "english": "lei (`Ei - lei; different types of ei)",
+      "maori": "ei upoko, ei kaki, ei ope, `ei pakuivi, ei tatua"
+    },
+    {
+      "english": "library",
+      "maori": "runanga puka, are puka, ngutuare puka, marae puka"
+    },
+    {
+      "english": "ligament",
+      "maori": "tuira"
+    },
+    {
+      "english": "like",
+      "maori": "ā"
+    },
+    {
+      "english": "local",
+      "maori": "akau poto"
+    },
+    {
+      "english": "locust",
+      "maori": "tapaki, potipoti"
+    },
+    {
+      "english": "Longfin banner fish",
+      "maori": "taputapu"
+    },
+    {
+      "english": "Long tailed cuckoo",
+      "maori": "karavia or A-Tangaroa"
+    },
+    {
+      "english": "lover",
+      "maori": "ipo - Aipo"
+    },
+    {
+      "english": "loyal",
+      "maori": "poutokomanava, poutokorangi, turuturu-ngaueue-kore, irinaki ia turuturu ia, toatokomanava, ngaueuekore"
+    },
+    {
+      "english": "magnet",
+      "maori": "toka mana"
+    },
+    {
+      "english": "maire (fragrant vine)",
+      "maori": "maire"
+    },
+    {
+      "english": "mallet",
+      "maori": "pao, ike, rue"
+    },
+    {
+      "english": "mango",
+      "maori": "vi"
+    },
+    {
+      "english": "many / plural or collective",
+      "maori": "Kau"
+    },
+    {
+      "english": "marrow",
+      "maori": "Ūō"
+    },
+    {
+      "english": "marry",
+      "maori": "akaipoipo"
+    },
+    {
+      "english": "massage therapist",
+      "maori": "mana o te rima"
+    },
+    {
+      "english": "master of ceremonies (MC)",
+      "maori": "va`a reka"
+    },
+    {
+      "english": "matakoviriviri (red bead tree)",
+      "maori": "mata koviriviri"
+    },
+    {
+      "english": "maui",
+      "maori": "left"
+    },
+    {
+      "english": "meditate",
+      "maori": "aka manatu"
+    },
+    {
+      "english": "measure / survey land",
+      "maori": "tōmiti"
+    },
+    {
+      "english": "mentor",
+      "maori": "arataki, rangatira"
+    },
+    {
+      "english": "mentee",
+      "maori": "ata arataki, ata rangatira"
+    },
+    {
+      "english": "message",
+      "maori": "kura, karere"
+    },
+    {
+      "english": "messenger / herald",
+      "maori": "pamorautī, amokura"
+    },
+    {
+      "english": "method",
+      "maori": "ravenga"
+    },
+    {
+      "english": "micro",
+      "maori": "poepoe"
+    },
+    {
+      "english": "micro-environment",
+      "maori": "ao-poepoe, ao-potipoti"
+    },
+    {
+      "english": "micro-organism",
+      "maori": "manu iti poepoe"
+    },
+    {
+      "english": "mineral",
+      "maori": "minera"
+    },
+    {
+      "english": "milky way",
+      "maori": "tarava"
+    },
+    {
+      "english": "molar (teeth)",
+      "maori": "ponga, te ni`o ponga"
+    },
+    {
+      "english": "monster",
+      "maori": "taae, tu maro kumi, tu maro anga"
+    },
+    {
+      "english": "moon",
+      "maori": "marama"
+    },
+    {
+      "english": "motif",
+      "maori": "akairo"
+    },
+    {
+      "english": "moth (large type)",
+      "maori": "kiona"
+    },
+    {
+      "english": "mourn",
+      "maori": "eva"
+    },
+    {
+      "english": "music instrument",
+      "maori": "taonga tuoro, taonga akatangi"
+    },
+    {
+      "english": "napkin",
+      "maori": "pikipiki"
+    },
+    {
+      "english": "national / international",
+      "maori": "akau roa"
+    },
+    {
+      "english": "navigator",
+      "maori": "matua akara etu, taunga akara etu"
+    },
+    {
+      "english": "necklace",
+      "maori": "`ei kakī, rei, tia"
+    },
+    {
+      "english": "nephew",
+      "maori": "iramutu"
+    },
+    {
+      "english": "nettle tree",
+      "maori": "orongā"
+    },
+    {
+      "english": "new zealand",
+      "maori": "Avaiki-tautau"
+    },
+    {
+      "english": "nights of the moon",
+      "maori": "Arapo"
+    },
+
+    {
+      "english": "north",
+      "maori": "akarua"
+    },
+    {
+      "english": "north east",
+      "maori": "maoake"
+    },
+    {
+      "english": "nourish",
+      "maori": "ngaki, tauturu, utuutu, akono"
+    },
+    {
+      "english": "nurse (to)",
+      "maori": "utuutu"
+    },
+    {
+      "english": "nurture",
+      "maori": "utuutu, ngaki, tauturu, akono"
+    },
+    {
+      "english": "objective / aim / purpose / intention",
+      "maori": "koronga, akakoro`anga"
+    },
+    {
+      "english": "octagon",
+      "maori": "paepae tuavaru"
+    },
+    {
+      "english": "organism",
+      "maori": "manu iti"
+    },
+    {
+      "english": "Orion / Orion's Belt",
+      "maori": "Tautoru or Iva-nui-tarava"
+    },
+    {
+      "english": "ovaries",
+      "maori": "Ra`o va`ine"
+    },
+    {
+      "english": "owner",
+      "maori": "ona"
+    },
+    {
+      "english": "oxygen",
+      "maori": "A`o ora, Reva `ou, Reva Maori, Tamanui-a-Raka, Matangi, Matangi Maori"
+    },
+    {
+      "english": "Pacific",
+      "maori": "Iva, Kiva, Patipika"
+    },
+    {
+      "english": "Pacific Ocean",
+      "maori": "Moana nui o Iva"
+    },
+    {
+      "english": "pack",
+      "maori": "aao"
+    },
+    {
+      "english": "paper mulberry",
+      "maori": "aute"
+    },
+    {
+      "english": "paramount chief",
+      "maori": "ariki"
+    },
+    {
+      "english": "parents",
+      "maori": "metua, nga metua"
+    },
+    {
+      "english": "parrot / parakeet",
+      "maori": "kakariki, kura"
+    },
+    {
+      "english": "parenting",
+      "maori": "ngakianga tamariki, raverave tamariki a te metua"
+    },
+    {
+      "english": "peace",
+      "maori": "`au"
+    },
+    {
+      "english": "perhaps",
+      "maori": "ae paa, penei"
+    },
+    {
+      "english": "persia",
+      "maori": "Peretia"
+    },
+    {
+      "english": "photograph",
+      "maori": "ooa"
+    },
+    {
+      "english": "picture",
+      "maori": "ooa"
+    },
+    {
+      "english": "pig",
+      "maori": "puaka Maori, puaka parakava"
+    },
+    {
+      "english": "pitcairn [island]",
+      "maori": "Pitikeni"
+    },
+    {
+      "english": "plait (or a twist)",
+      "maori": "makave"
+    },
+    {
+      "english": "plan",
+      "maori": "ravenga, parani"
+    },
+    {
+      "english": "please",
+      "maori": "`inē"
+    },
+    {
+      "english": "plug (a hole or leak, caulk a leak)",
+      "maori": "tōtamu"
+    },
+    {
+      "english": "pluck",
+      "maori": "aaki, `A`ae, vevete"
+    },
+    {
+      "english": "plural marker or collective",
+      "maori": "`ai, kau"
+    },
+    {
+      "english": "porpoise",
+      "maori": "taairangi"
+    },
+    {
+      "english": "portfolio",
+      "maori": "kete angaanga"
+    },
+    {
+      "english": "portrait",
+      "maori": "ata tutu"
+    },
+    {
+      "english": "possible",
+      "maori": "rauka, tika"
+    },
+    {
+      "english": "possibly",
+      "maori": "ae paa, penei"
+    },
+    {
+      "english": "post",
+      "maori": "au"
+    },
+    {
+      "english": "powder",
+      "maori": "paura"
+    },
+    {
+      "english": "pray / prayer",
+      "maori": "taro, pure, karakia, akatātā"
+    },
+    {
+      "english": "preserve",
+      "maori": "taporo"
+    },
+    {
+      "english": "progenitor",
+      "maori": "mōmua, mokomua"
+    },
+    {
+      "english": "project",
+      "maori": "rave`anga"
+    },
+    {
+      "english": "promote",
+      "maori": "`akarau, akaari, akariari, `akarava"
+    },
+    {
+      "english": "protect",
+      "maori": "paruru"
+    },
+    {
+      "english": "proverb",
+      "maori": "nakunga, ki, maseli"
+    },
+    {
+      "english": "Pleiades",
+      "maori": "Matariki, Mataono, Kainanu"
+    },
+    {
+      "english": "plug / plugged",
+      "maori": "Purutia"
+    },
+    {
+      "english": "pupil / student",
+      "maori": "tauira"
+    },
+    {
+      "english": "pupil (of the eye)",
+      "maori": "koringo mata"
+    },
+    {
+      "english": "radio",
+      "maori": "ratio, kura mareva"
+    },
+    {
+      "english": "ray (of the sun)",
+      "maori": "taura a Maui, a`ei ariki"
+    },
+    {
+      "english": "realm",
+      "maori": "riu"
+    },
+    {
+      "english": "receptacle",
+      "maori": "aao"
+    },
+    {
+      "english": "recite (as in reciting one's identity or genealogies)",
+      "maori": "tapatapa ingoa"
+    },
+    {
+      "english": "rectangle",
+      "maori": "raparapa"
+    },
+    {
+      "english": "references (bibliography)",
+      "maori": "te au tātā`anga tauturu"
+    },
+    {
+      "english": "refuse (see also waste)",
+      "maori": "para"
+    },
+    {
+      "english": "resource",
+      "maori": "kī, ravenga, mekameka"
+    },
+    {
+      "english": "research / to do research work",
+      "maori": "ranga, uapou"
+    },
+    {
+      "english": "reveal",
+      "maori": "aaki, akakite"
+    },
+    {
+      "english": "revelation / exposition / exhibition",
+      "maori": "akaringa, ma`eunga"
+    },
+    {
+      "english": "rope",
+      "maori": "taura, taura atua"
+    },
+    {
+      "english": "sail",
+      "maori": "ra"
+    },
+    {
+      "english": "sanctify",
+      "maori": "akatapu, ioo"
+    },
+    {
+      "english": "sandflies",
+      "maori": "potipoti"
+    },
+    {
+      "english": "sandalwood",
+      "maori": "a`i, maramia"
+    },
+    {
+      "english": "salon",
+      "maori": "are pana, are pori, are akapurotu"
+    },
+    {
+      "english": "salutation",
+      "maori": "kia ora"
+    },
+    {
+      "english": "sap",
+      "maori": "tapou, roimata rakau, vai rakau"
+    },
+    {
+      "english": "satisfy / satisfied",
+      "maori": "marengo, pa`ia"
+    },
+    {
+      "english": "sauna",
+      "maori": "a`i puko`u"
+    },
+    {
+      "english": "scheme",
+      "maori": "ravenga"
+    },
+    {
+      "english": "sea",
+      "maori": "tai"
+    },
+    {
+      "english": "sea level rise",
+      "maori": "tai maranga, tainui, tai tu, tai turuvi"
+    },
+    {
+      "english": "sea sick",
+      "maori": "akeu moana, manunu tai"
+    },
+    {
+      "english": "separate / tear",
+      "maori": "nga`ae, `aea, `ae`ae, akaatea"
+    },
+    {
+      "english": "skilful",
+      "maori": "pikipiki"
+    },
+    {
+      "english": "skull",
+      "maori": "kapu roro"
+    },
+    {
+      "english": "skyline",
+      "maori": "ionga, piriarangi"
+    },
+    {
+      "english": "snake",
+      "maori": "ovi, kākākuru"
+    },
+    {
+      "english": "snare",
+      "maori": "taei, taii"
+    },
+    {
+      "english": "snort",
+      "maori": "aangu"
+    },
+    {
+      "english": "soar",
+      "maori": "aka ruirui"
+    },
+    {
+      "english": "spear",
+      "maori": "akatara, akatara kuri"
+    },
+    {
+      "english": "speech",
+      "maori": "korero, vananga"
+    },
+    {
+      "english": "spill (blood like water)",
+      "maori": "riva ta, riva tau"
+    },
+    {
+      "english": "spirit",
+      "maori": "vaerua"
+    },
+    {
+      "english": "spring",
+      "maori": "`iringa"
+    },
+    {
+      "english": "square",
+      "maori": "raparapa"
+    },
+    {
+      "english": "sting (as in a bee's sting)",
+      "maori": "patia, pao"
+    },
+    {
+      "english": "survey",
+      "maori": "tōmiti, vaito"
+    },
+    {
+      "english": "surveyor",
+      "maori": "ta`unga tōmiti, tama tōmiti"
+    },
+    {
+      "english": "stalactites / stalagmites",
+      "maori": "ke`o runga, ke`o raro"
+    },
+    {
+      "english": "stars",
+      "maori": "akatauira, te-mata-nui-o-Tane, kauta, mokoroa-ite-ata, moko-roa-ki aitu, scorpio"
+    },
+    {
+      "english": "steadfast",
+      "maori": "kita"
+    },
+    {
+      "english": "steam-bath",
+      "maori": "a`i puko`u"
+    },
+    {
+      "english": "strand (as of rope or string)",
+      "maori": "`enu"
+    },
+    {
+      "english": "strategy",
+      "maori": "kaveinga, rave`anga, parani"
+    },
+    {
+      "english": "stretch (limbs as when waking up)",
+      "maori": "ākeke"
+    },
+    {
+      "english": "stretcher",
+      "maori": "kauamo"
+    },
+    {
+      "english": "student",
+      "maori": "tauira"
+    },
+    {
+      "english": "summer",
+      "maori": "raumati"
+    },
+    {
+      "english": "sun",
+      "maori": "tama-nui-ite-ra, ra"
+    },
+    {
+      "english": "sun rays",
+      "maori": "taura a Maui, a`ei ariki"
+    },
+    {
+      "english": "surprise",
+      "maori": "`ā"
+    },
+    {
+      "english": "surrender",
+      "maori": "aka moe rakau, tuku au"
+    },
+    {
+      "english": "sustain",
+      "maori": "ngaki, taporo, akarava, angai, akono"
+    },
+    {
+      "english": "sustainability",
+      "maori": "ngaki`anga, taporoporo, akarava, angaianga, akonokono, `io`io"
+    },
+    {
+      "english": "Suwarroe Island",
+      "maori": "Motu Tou"
+    },
+    {
+      "english": "shark",
+      "maori": "mango"
+    },
+    {
+      "english": "sweetheart",
+      "maori": "aipo"
+    },
+    {
+      "english": "square",
+      "maori": "apa `a, tapa a, pae a, paepae a, paepae tuaa, kuea"
+    },
+    {
+      "english": "tattoo",
+      "maori": "tatau"
+    },
+    {
+      "english": "tear",
+      "maori": "nga`ae, `aea, `ae`ae"
+    },
+    {
+      "english": "to be (or that which is)",
+      "maori": "ei"
+    },
+    {
+      "english": "thy / thine",
+      "maori": "a'au, taau"
+    },
+    {
+      "english": "totem",
+      "maori": "taura-atua"
+    },
+    {
+      "english": "transform",
+      "maori": "akaumu"
+    },
+    {
+      "english": "transfigure",
+      "maori": "akaumu"
+    },
+    {
+      "english": "triangle",
+      "maori": "tapa toru, tuatoru, paetoru, paepae toru, paepae tuatoru"
+    },
+    {
+      "english": "technology",
+      "maori": "`angarau"
+    },
+    {
+      "english": "temple (side of the head)",
+      "maori": "raerae, rairai"
+    },
+    {
+      "english": "tephrosia piscatoria (fish stupefying plant)",
+      "maori": "mātā`ora, `ora"
+    },
+    {
+      "english": "tern",
+      "maori": "kakaia-tungia-e-Maui"
+    },
+    {
+      "english": "tie (as to tie with cord or rope)",
+      "maori": "aau, nati, tapeka"
+    },
+    {
+      "english": "toddle",
+      "maori": "aere, aaere"
+    },
+    {
+      "english": "tonsils",
+      "maori": "piri kaki"
+    },
+    {
+      "english": "troupe (of dancers)",
+      "maori": "tau`ura"
+    },
+    {
+      "english": "twilight",
+      "maori": "a`ia`i popoiri"
+    },
+    {
+      "english": "ultimatum",
+      "maori": "Pamorautī"
+    },
+    {
+      "english": "understand",
+      "maori": "kiro"
+    },
+    {
+      "english": "untrained",
+      "maori": "pitara"
+    },
+    {
+      "english": "unskilled",
+      "maori": "pitara"
+    },
+    {
+      "english": "Venus",
+      "maori": "Te mata nui ō Tāne, `Akatauira"
+    },
+    {
+      "english": "ventilator",
+      "maori": "Pu tara"
+    },
+    {
+      "english": "virtual reality",
+      "maori": "ao orama"
+    },
+    {
+      "english": "vulture",
+      "maori": "aeto"
+    },
+    {
+      "english": "walk",
+      "maori": "aere, 'ā'ā ere"
+    },
+    {
+      "english": "waste",
+      "maori": "para"
+    },
+    {
+      "english": "war",
+      "maori": "Pūruki, Tamaki, taua, akataka patoa"
+    },
+    {
+      "english": "war dance",
+      "maori": "Aka"
+    },
+    {
+      "english": "waterspout",
+      "maori": "uriuri-tu-moana"
+    },
+    {
+      "english": "walk abreast",
+      "maori": "aere tapapa"
+    },
+    {
+      "english": "walk in single file",
+      "maori": "aere tiraroa"
+    },
+    {
+      "english": "wander",
+      "maori": "aere; aaere"
+    },
+    {
+      "english": "weave / weaving",
+      "maori": "raranga, rāranga"
+    },
+    {
+      "english": "what",
+      "maori": "a`a"
+    },
+    {
+      "english": "welcome",
+      "maori": "Urau, aere mai, turou, ano mai"
+    },
+    {
+      "english": "west",
+      "maori": "parapu"
+    },
+    {
+      "english": "when",
+      "maori": "a`ea"
+    },
+    {
+      "english": "winter",
+      "maori": "Paroro"
+    },
+    {
+      "english": "wise, wisdom",
+      "maori": "kama`atu"
+    },
+    {
+      "english": "wise saying",
+      "maori": "nakunga"
+    },
+    {
+      "english": "woo",
+      "maori": "aani, ani"
+    },
+    {
+      "english": "workshop",
+      "maori": "itiki korero"
+    },
+    {
+      "english": "yam",
+      "maori": "Mararaurau, U`i, Kau tī"
+    },
+    {
+      "english": "yes",
+      "maori": "ae, e, io"
+    }
+  ]
+}
